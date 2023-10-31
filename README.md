@@ -1,5 +1,5 @@
 # Kurbenetes 101
-<span style="color:red">_V texte sa môžu nachádzať preklepy a gramatické chyby. Dávid bol korektor textu a odobril jeho publikáciu_</span>.
+⚠️_V texte sa môžu nachádzať preklepy a gramatické chyby. Dávid bol korektor textu a odobril jeho publikáciu._⚠️
 ## Intro
 
 ### Container

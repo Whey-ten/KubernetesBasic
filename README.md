@@ -1,5 +1,4 @@
 # Kurbenetes 101
-#### Sebo
 
 ## Intro
 

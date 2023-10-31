@@ -203,9 +203,21 @@ Typy služieb, ktoré kubernetes poskytuje:
 * Podobne ako Configmaps ale umožňujú ukladať údaje v hashovanej forme
 
 ![img.png](images/img-secrets1.png)
+
+* 
+
 ![img.png](images/img-secrets2.png)
+
+* 
+
 ![img.png](images/img-secrets3.png)
+
+* 
+
 ![img.png](images/img-secrets4.png)
+
+* 
+
 ![img.png](images/img-secrets5.png)
 ### Škálovateľnosť
 
